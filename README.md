@@ -22,4 +22,7 @@
 
 ---
 
+[![Freelancehunt — простий та чесний фриланс](https://freelancehunt.com/shields/display/id/1490971/type/mainskillone?style=social&lang=uk)](https://freelancehunt.com/freelancer/TheLapis.html?from=shield&r=lPoW3)
+[![Freelancehunt — простий та чесний фриланс](https://freelancehunt.com/shields/display/id/1490971/type/mainskilltwo?style=social&lang=uk)](https://freelancehunt.com/freelancer/TheLapis.html?from=shield&r=lPoW3)
+
 📫 How to reach me: [Telegram](https://t.me/TheLapisOrthodox) | [Email](lapisstudioua@gmail.com)  
