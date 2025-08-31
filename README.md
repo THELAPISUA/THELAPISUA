@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Kirill  
 
-<!--
-**THELAPISUA/THELAPISUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a **15-year-old developer** passionate about programming and technology.  
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌐 I know **Java**
+- 📚 Currently learning **C++** and **C#**  
+- 🌍 Built websites and bots using **Java**  
+- 🛠 Interested in game development, desktop apps, and open-source projects  
+- 🤝 Open to collaboration and team projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- **Languages:** Java, C++, C#  
+- **Frameworks:** .NET, Spring (Java)  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools:** Git, GitHub, IntelliJ IDEA, VS Code  
+
+### 📌 Goals
+- Build real projects in team environments  
+- Contribute to open-source  
+- Grow into a professional software engineer  
+
+---
+
+📫 How to reach me: [Telegram](https://t.me/TheLapisOrthodox) | [Email](lapisstudioua@gmail.com)  
