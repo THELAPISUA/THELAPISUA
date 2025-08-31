@@ -21,7 +21,6 @@
 - Grow into a professional software engineer  
 
 ---
-
-<a href="https://freelancehunt.com/freelancer/TheLapis.html?from=shield&r=lPoW3" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1490971/type/mainskillone?style=social&lang=uk" alt="Freelancehunt — простий та чесний фриланс"></a>
+<a href="https://freelancehunt.com/freelancer/TheLapis.html?from=shield&r=lPoW3" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1490971/type/rating?style=for-the-badge&lang=uk" alt="Freelancehunt — простий та чесний фриланс"></a>
 
 📫 How to reach me: [Telegram](https://t.me/TheLapisOrthodox) | [Email](lapisstudioua@gmail.com)  
