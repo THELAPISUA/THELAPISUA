@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kirill  
 
-💻 I'm a **15-year-old developer** passionate about programming and technology.  
+💻 I'm a **developer** passionate about programming and technology.  
 
 ### 🚀 About Me
 - 🌐 I know **Java**
