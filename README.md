@@ -1,10 +1,10 @@
-!-- Привіт! Це README твого профілю GitHub --
+<!-- Привіт! Це README твого профілю GitHub -->
 
-h1 align=center👋 Привіт, я Кирилh1
+<h1 align="center">👋 Привіт, я Кирил</h1>
 
-p align=center
-  💻 Python  Java  C# Developer  🧠 Вчу DevOps  🎮 Minecraft Plugins & Telegram Bots
-p
+<p align="center">
+  💻 Python / Java / C# Developer | 🧠 Вчу DevOps | 🎮 Minecraft Plugins & Telegram Bots
+</p>
 
 ---
 
@@ -48,6 +48,6 @@ p
 - ✉️ Email tumanenkok@gmail.com  
 ---
 
-p align=center
-  i“Кожен великий розробник колись був початківцем, який не здався.”i
-p
+<p align="center">
+  <i>“Кожен великий розробник колись був початківцем, який не здався.”</i>
+</p>
